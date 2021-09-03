@@ -16,7 +16,8 @@ app.get("/", (req, res, next) => {
     "cerpen-cinta",
     "cerpen-cinta-dalam-hati-terpendam",
     "cerpen-cinta-islami",
-    "cerpen-remaja",
+    "cerpen-gokil",
+    "cerpen-patah-hati",
     "cerpen-renungan",
     "cerpen-persahabatan"
   ];
