@@ -73,3 +73,4 @@ app.listen(PORT, (err) => {
   console.log("%c Server running", "color: green");
 });
 //aaa
+// Ini copas jdi gausah tamnya:b saia masi belajar
