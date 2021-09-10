@@ -19,7 +19,10 @@ app.get("/", (req, res, next) => {
     "cerpen-gokil",
     "cerpen-patah-hati",
     "cerpen-renungan",
-    "cerpen-persahabatan"
+    "cerpen-persahabatan",
+    "cerpen-kisah-nyata",
+    "cerpen-pendidikan",
+    "cerpen-jepang"
   ];
   var kategori = items[Math.floor(Math.random() * items.length)];
 
